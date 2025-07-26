@@ -1,0 +1,16 @@
+{
+  "config": {
+    "name": "Simple Search Engine",
+    "version": "1.0"
+  },
+  "files": [
+    "resources/text_1.txt",
+    "resources/text_2.txt"
+  ],
+  "requests": [
+    "quick brown fox",
+    "chasing butterflies",
+    "dogs slept",
+    "golden fields"
+  ]
+}
