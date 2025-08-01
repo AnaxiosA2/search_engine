@@ -1,0 +1,8 @@
+{
+  "config": {
+    "name": "Test config",
+    "version": "0.1",
+    "max_responses": 10
+  },
+  "files": ["doc1.txt", "doc2.txt"]
+}

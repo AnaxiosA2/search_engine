@@ -1,0 +1,8 @@
+{
+  "config": {
+    "version": "1.0",
+    "max_responses": 5
+  },
+  "files": [
+    "tests/test_data/doc1.txt",
+    "tests/test_data/doc2.txt"

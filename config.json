@@ -1,0 +1,12 @@
+{
+  "config": {
+    "name": "TestConfig",
+    "version": "0.1",
+    "max_responses": 5
+  },
+  "files": [
+    "resources/text_1.txt",
+    "resources/text_2.txt",
+    "resources/text_3.txt"
+  ]
+}
