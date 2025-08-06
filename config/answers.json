@@ -1,0 +1,34 @@
+{
+    "answers": [
+        {
+            "relevance": [
+                {
+                    "doc_id": 0,
+                    "rank": 1.0
+                }
+            ],
+            "request": "milk water",
+            "result": true
+        },
+        {
+            "relevance": [
+                {
+                    "doc_id": 1,
+                    "rank": 1.0
+                }
+            ],
+            "request": "capital london",
+            "result": true
+        },
+        {
+            "relevance": [
+                {
+                    "doc_id": 2,
+                    "rank": 1.0
+                }
+            ],
+            "request": "americano",
+            "result": true
+        }
+    ]
+}

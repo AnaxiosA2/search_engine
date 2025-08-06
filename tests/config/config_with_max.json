@@ -1,0 +1,10 @@
+{
+  "config": {
+    "version": "1.0",
+    "max_responses": 10
+  },
+  "files": [
+    "../resources/doc1.txt",
+    "../resources/doc2.txt"
+  ]
+}

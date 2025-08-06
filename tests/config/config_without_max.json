@@ -1,0 +1,7 @@
+{
+  "config": {
+    "name": "Test config",
+    "version": "1.0"
+  },
+  "files": ["file1.txt", "file2.txt"]
+}
